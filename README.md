@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sambhavi 👋
 
-<!--
-**sambhavi0/sambhavi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech CSE, 1st year · Delhi · GSSoC 2026 Contributor · CircuitVerse Open Source
 
-Here are some ideas to get you started:
+I build full stack web apps and I'm currently getting into ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on:**
+- Contributing to GSSoC 2026 projects
+- Learning classical ML 
+- DSA in Java
+
+**Tech I work with:**
+MERN stack · Python · FastAPI · NumPy · Pandas · Git
+
+**Projects:**
+- [Personal Finance Dashboard]((https://finance-dashboard-eight-ashen-75.vercel.app/)) — MERN + FastAPI + Pandas
+- [Smart Campus Lost & Found](https://github.com/sambhavi0/smart-campus-lost-and-found) — full-stack campus tool
+- [Clario](https://github.com/sambhavi0/Clario-A-Career-Decision-Simulator-) — career decision simulator
+
+📫 [LinkedIn](https://www.linkedin.com/in/sambhavi-singh/)
