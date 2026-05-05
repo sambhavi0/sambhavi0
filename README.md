@@ -13,7 +13,7 @@ I build full stack web apps and I'm currently getting into ML.
 MERN stack · Python · FastAPI · NumPy · Pandas · Git
 
 **Projects:**
-- [Personal Finance Dashboard]((https://finance-dashboard-eight-ashen-75.vercel.app/)) — MERN + FastAPI + Pandas
+- [Personal Finance Dashboard](https://finance-dashboard-eight-ashen-75.vercel.app/) — MERN + FastAPI + Pandas
 - [Smart Campus Lost & Found](https://github.com/sambhavi0/smart-campus-lost-and-found) — full-stack campus tool
 - [Clario](https://github.com/sambhavi0/Clario-A-Career-Decision-Simulator-) — career decision simulator
 
