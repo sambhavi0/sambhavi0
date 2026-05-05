@@ -1,6 +1,6 @@
 # Hi, I'm Sambhavi 👋
 
-BTech CSE, 1st year · Delhi · GSSoC 2026 Contributor · CircuitVerse Open Source
+BTech CSE, 1st year · GGSIPU, Delhi · GSSoC 2026 Contributor · CircuitVerse Open Source
 
 I build full stack web apps and I'm currently getting into ML.
 
