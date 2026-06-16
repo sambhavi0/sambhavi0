@@ -18,6 +18,7 @@ MERN stack · Python · FastAPI · NumPy · Pandas · Git
 - [Clario](https://github.com/sambhavi0/Clario-A-Career-Decision-Simulator-) — career decision simulator
 
 **Blogs:**
+
 -[Why My Finance Dashboard Has Two Backends (And What Broke When I Deployed It)](https://dev.to/sambhavi0/why-my-finance-dashboard-has-two-backends-and-what-broke-when-i-deployed-it-28l8)
 
 📫 [LinkedIn](https://www.linkedin.com/in/sambhavi-singh/)
