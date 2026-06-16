@@ -19,6 +19,6 @@ MERN stack · Python · FastAPI · NumPy · Pandas · Git
 
 **Blogs:**
 
--[Why My Finance Dashboard Has Two Backends (And What Broke When I Deployed It)](https://dev.to/sambhavi0/why-my-finance-dashboard-has-two-backends-and-what-broke-when-i-deployed-it-28l8)
+-[Why My Finance Dashboard Has Two Backends (And What Broke When I Deployed It)](https://medium.com/@sambhavi067/why-my-finance-dashboard-has-two-backends-and-what-broke-when-i-deployed-it-73d42e525082)
 
 📫 [LinkedIn](https://www.linkedin.com/in/sambhavi-singh/)
