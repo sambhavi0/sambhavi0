@@ -20,5 +20,6 @@ MERN stack · Python · FastAPI · NumPy · Pandas · Git
 **Blogs:**
 
 -[Why My Finance Dashboard Has Two Backends (And What Broke When I Deployed It)](https://medium.com/@sambhavi067/why-my-finance-dashboard-has-two-backends-and-what-broke-when-i-deployed-it-73d42e525082)
+-[I Built 80% of an AI Video Generation Platform as a First-Year Intern & Here’s What I Learned](https://medium.com/@sambhavi067/i-built-80-of-an-ai-video-generation-platform-as-a-first-year-intern-heres-what-i-learned-2e84ef695c62?postPublishedType=initial)
 
 📫 [LinkedIn](https://www.linkedin.com/in/sambhavi-singh/)
